@@ -1,6 +1,8 @@
 # Sourabh Pandav
 
-Hey there! I'm Sourabh 👋. Welcome to my GitHub profile where I showcase my work and projects. I'm an Aspiring Financial Analyst with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
+Hey! 
+I'm Sourabh 👋. 
+Welcome to my GitHub profile where I showcase my work and projects. I'm an Aspiring Financial Analyst with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
 
 🎓 **MS in Finance** from Stevens Institute of Technology, Hoboken, NJ (May 2023)
 🏠 **Location:** Jersey City, NJ
@@ -13,26 +15,23 @@ In my free time, I enjoy reading books 📚, playing ping pong 🏓, and going f
 
 ### Data Projects I've Worked On
 
-**Tableau Dashboards**
-- Created Tableau dashboards to leverage data to explain events.
+**Corporate Finance Wynn Resorts Valuation: A 10K Forecasting Report | Excel**
+- Assessed financial statements of Wynn Resorts with pivot tables, VLOOKUP, macros for data management and automation. Performed 10+ ratio analysis covering liquidity, profitability, efficiency, and solvency.
+- Constructed 5+ financial models, like DCF and WACC on historical data, key performance indicators (KPIs), and time series forecasting assessing financial health and determined 20% undervaluation, offering investment recommendations for investors.
 
-**Flourish Visualizations**
-- Analyzed 90 days of multicountry data extracted from Google Trends.
-- Contrasted coronavirus vs. monkeypox search trends for the USA, Haiti, Nigeria, and worldwide.
+**Asset Management of 1-million-dollar Fund | Interactive Broker**
+- Engaged in Equities and Derivatives Market, trading strategies virtually as a tech-focused fund, mirroring Goldman Sachs VIP basket with 10% cash reserves and 20% hedging, in challenging market conditions.
+- Accomplished 14.16% maximizing returns, outperforming twice the global market's 6% upswing with covered risk reversal investment strategies and risk management.
 
-**YouTube Text Mining ML Analysis**
-- Developed a Flask-based web application that extracts YouTube data.
-- Cleans, preprocesses, and feature engineers the data, creates word clouds for titles, descriptions, and tags.
-- Runs 7 ML algorithms, compares runtimes (spark vs. normal), and provides performance metrics.
-- Predicts like counts on title and description.
+**Portfolio Analysis utilizing Financial Technology | Python**
+- Developed portfolio optimization framework in various asset classes with Python’s Quantstats library in Jupyter Notebook to guide data-driven investment decisions through comprehensive risk and return analysis for stakeholders.
+- Implemented mean-variance and minimum risk models to optimize asset allocation, increasing returns by 21.45% over the benchmark index S&P 500 Exchange Traded Fund while reducing risk exposure.
 
-**Figma Prototypes (Data-Driven UI/UX)**
-- Neko-Tine BeatTheFat Mobile Application mockup to help international students in the USA source nutritional food based on their dietary and goal preferences (gain or lose weight).
-- Human Computer Interaction Lab website mockup for HCL Lab to help showcase its projects, teammates, fun activities, and enrollment.
-- Nioneer V.2 Mobile Application mockup facilitating different products and services offered by Nioneer.
-- Qzee Mobile Application mockup envisioning a game to improve general knowledge in various streams.
-- NewGen Analysis Mobile Application mockup envisioning stock market news about companies.
-- Authenticator Nioneer Application Mobile Application mockup facilitating different products and services offered by Nioneer.
+**Analysis and Data Visualization of NASDAQ S&P 500 | R & Tableau**
+- Leveraged R programming to clean, process, and merge a dataset of 80,000+ records, resulting in 97% data accuracy.
+- Employed 'ggplot2' in R and Tableau to design compelling interactive visuals, charts, stories, and dashboards.
+- Reviewed market patterns, buying/selling market trends, and 10 parameters for insights into market movement over time.
+
 
 **Open Source Contribution**
 - I've contributed to data-8, which is the Foundations of Data Science course at UC Berkeley.
