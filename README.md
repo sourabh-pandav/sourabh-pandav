@@ -8,9 +8,9 @@ I'm Sourabh 👋. <br>Welcome to my GitHub profile where I showcase my work and 
 <br>🌱 Currently learning new concepts and working on projects to enhance my technical skillset and coding abilities.
 <br>💬 Ask me about designing **Data-Driven Strategic Planning**.
 <br>⚡ Fun fact: "Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other."
-<br>🤝 Connect with me on [LinkedIn](www.linkedin.com/in/sourabhpandav).
+<br>🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/sourabhpandav).
 
-In my free time, I enjoy reading books 📚, playing ping pong 🏓, and going for walks 🚶‍♂️.
+In my free time, I enjoy Travelling 🚗, listening to Progressive Pops 🎸, and going for walks 🚶‍♂️.
 
 ## Data Projects I've Worked On
 
