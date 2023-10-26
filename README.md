@@ -35,5 +35,5 @@ In my free time, I enjoy reading books 📚, playing ping pong 🏓, and going f
 
 You can explore more of my work in my repositories. Feel free to look around and contact me if you have any questions.
 
-📫 **How to reach me:** [Portfolio](sourabh-pandav.github.io)
-[LinkedIn](www.linkedin.com/in/sourabhpandav)
+📫 **How to reach me:** [Portfolio](https://sourabh-pandav.github.io)
+[LinkedIn](https://www.linkedin.com/in/sourabhpandav)
