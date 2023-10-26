@@ -7,7 +7,7 @@ I'm Sourabh 👋. <br>Welcome to my GitHub profile where I showcase my work and 
 <br>🏠 **Location:** Jersey City, NJ
 <br>🌱 Currently learning new concepts and working on projects to enhance my technical skillset and coding abilities.
 <br>💬 Ask me about designing **Data-Driven Strategic Planning**.
-<br>⚡ Fun fact: "Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other."
+<br>⚡ Fun fact: "Ever wonder how Wall Street traders unwind? They indulge in the 'Billionaire's Bet' – a friendly competition to see who can guess the daily closing price of Bitcoin. It's not just a game; it's a glimpse into the unpredictable world of finance, where even experts take a wild guess!"
 <br>🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/sourabhpandav).
 
 In my free time, I enjoy Travelling 🚗, listening to Progressive Pops 🎸, and going for walks 🚶‍♂️.
