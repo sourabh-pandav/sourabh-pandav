@@ -1,19 +1,18 @@
 # Sourabh Pandav
 
 Hey! 
-I'm Sourabh 👋. 
-Welcome to my GitHub profile where I showcase my work and projects. I'm an Aspiring Financial Analyst with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
+I'm Sourabh 👋. <br>Welcome to my GitHub profile where I showcase my work and projects. I'm an Aspiring Financial Analyst with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
 
 🎓 **MS in Finance** from Stevens Institute of Technology, Hoboken, NJ (May 2023)
-🏠 **Location:** Jersey City, NJ
-🌱 Currently learning new concepts and working on projects to enhance my technical skillset and coding abilities.
-💬 Ask me about designing **Data-Driven Strategic Planning**.
-⚡ Fun fact: "Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other."
-🤝 Connect with me on [LinkedIn](www.linkedin.com/in/sourabhpandav).
+<br>🏠 **Location:** Jersey City, NJ
+<br>🌱 Currently learning new concepts and working on projects to enhance my technical skillset and coding abilities.
+<br>💬 Ask me about designing **Data-Driven Strategic Planning**.
+<br>⚡ Fun fact: "Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other."
+<br>🤝 Connect with me on [LinkedIn](www.linkedin.com/in/sourabhpandav).
 
 In my free time, I enjoy reading books 📚, playing ping pong 🏓, and going for walks 🚶‍♂️.
 
-### Data Projects I've Worked On
+## Data Projects I've Worked On
 
 **Corporate Finance Wynn Resorts Valuation: A 10K Forecasting Report | Excel**
 - Assessed financial statements of Wynn Resorts with pivot tables, VLOOKUP, macros for data management and automation. Performed 10+ ratio analysis covering liquidity, profitability, efficiency, and solvency.
@@ -31,18 +30,6 @@ In my free time, I enjoy reading books 📚, playing ping pong 🏓, and going f
 - Leveraged R programming to clean, process, and merge a dataset of 80,000+ records, resulting in 97% data accuracy.
 - Employed 'ggplot2' in R and Tableau to design compelling interactive visuals, charts, stories, and dashboards.
 - Reviewed market patterns, buying/selling market trends, and 10 parameters for insights into market movement over time.
-
-
-**Open Source Contribution**
-- I've contributed to data-8, which is the Foundations of Data Science course at UC Berkeley.
-
-### Websites I've Developed
-
-**WorkinBuddy**
-
-### Project Documentation
-
-**HCI Lab Project**
 
 ### Portfolio
 
