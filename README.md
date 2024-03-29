@@ -1,7 +1,7 @@
 # Sourabh Pandav
 
 Hey! 
-I'm Sourabh 👋. <br>Welcome to my GitHub profile where I showcase my work and projects. I'm an Aspiring Financial Analyst with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
+I'm Sourabh 👋. <br>Welcome to my GitHub profile where I showcase my work and projects. I'm an Analyst at BlackRock with a knack for identifying the right problem before finding a solution. I'm all about empathy and thrive on creating user-centered solutions using my technical and business acumen. I'm actively looking for full-time positions, so feel free to reach out if you're interested in collaborating.
 
 🎓 **MS in Finance** from Stevens Institute of Technology, Hoboken, NJ (May 2023)
 <br>🏠 **Location:** Jersey City, NJ
